@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+instance
+report.html
+test_report.txt
+*.db
